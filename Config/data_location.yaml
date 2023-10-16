@@ -1,0 +1,6 @@
+path: C:\ConceivableProjects\coc_in_drop_h\v5
+train: images/train 
+val: images/val 
+
+names:
+  0: coc
