@@ -1,6 +1,18 @@
 outs:
-- md5: 4febaea72746c19b65119240778af1d9.dir
-  size: 185509674
-  nfiles: 2
-  hash: md5
+- hash: md5
   path: Weights
+  files:
+  - relpath: best.pt
+    md5: a0c401cc4e80047b66b57bf54ebf6f1d
+    size: 92754837
+    cloud:
+      storage:
+        etag: 08bdaf998dc4fb81031001
+        version_id: '1697492435883965'
+  - relpath: pre.pt
+    md5: ff2d5c586b4aa7e7bd58b1491ff48c54
+    size: 92754837
+    cloud:
+      storage:
+        etag: 08bfbcb792c4fb81031001
+        version_id: '1697492446862911'
